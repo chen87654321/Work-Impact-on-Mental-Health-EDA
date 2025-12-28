@@ -34,6 +34,11 @@ A 100% stacked bar chart showing levels of social isolation across different wor
 
 Learning on the DataCamp website taught me the skills I needed to turn this project into reality.
 
-From basic programming (Introduction to Python), through more advanced topics (Pandas), and data visualization (Matplotlib, Seaborn, and Plotly Express), the courses provided a clear learning path.
+From basic programming (Introduction to Python), through more advanced topics (Pandas), and data visualization (Matplotlib, Seaborn, and Plotly Express),
+the courses provided a clear learning path.
 
-DataCamp also includes code-along videos demonstrating how an EDA project is structured, which helped me understand not only how to write the code, but also how to extract insights and present an analysis.
+I especially enjoyed "DataCamp's projects" that allowed me to feel like making a real project while also providing help
+with "How to begin" when you start answering a provided question, and "What went wrong" when getting an error.
+
+DataCamp also includes code-along videos demonstrating how an EDA project is structured, which helped me understand not only how to write the code,
+but also how to extract insights and present an analysis.
